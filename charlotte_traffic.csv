@@ -1,0 +1,16 @@
+timestamp,location,latitude,longitude,current_speed_kmh,free_flow_speed_kmh,current_travel_time_s,free_flow_travel_time_s,confidence,road_closure,speed_ratio,traffic_level
+2026-09-25 22:56:57,Uptown Charlotte,35.2271,-80.8431,14,14,202,202,1,False,1.0,low
+2026-09-25 22:56:57,I-77 South,35.1900,-80.8750,49,49,148,148,1,False,1.0,low
+2026-09-25 22:56:57,I-85 North,35.2900,-80.7800,67,67,67,67,1,False,1.0,low
+2026-09-25 22:56:57,I-485 South,35.0600,-80.8200,61,61,127,127,1,False,1.0,low
+2026-09-25 22:56:57,Independence Blvd,35.1950,-80.7700,46,46,24,24,1,False,1.0,low
+2026-09-25 23:08:08,Uptown Charlotte,35.2271,-80.8431,14,14,202,202,1,False,1.0,low
+2026-09-25 23:08:08,I-77 South,35.1900,-80.8750,49,49,148,148,1,False,1.0,low
+2026-09-25 23:08:08,I-85 North,35.2900,-80.7800,67,67,67,67,1,False,1.0,low
+2026-09-25 23:08:08,I-485 South,35.0600,-80.8200,61,61,127,127,1,False,1.0,low
+2026-09-25 23:08:08,Independence Blvd,35.1950,-80.7700,46,46,24,24,1,False,1.0,low
+2026-09-25 23:11:22,Uptown Charlotte,35.2271,-80.8431,14,14,202,202,1,False,1.0,low
+2026-09-25 23:11:22,I-77 South,35.1900,-80.8750,49,49,148,148,1,False,1.0,low
+2026-09-25 23:11:23,I-85 North,35.2900,-80.7800,67,67,67,67,1,False,1.0,low
+2026-09-25 23:11:23,I-485 South,35.0600,-80.8200,61,61,127,127,1,False,1.0,low
+2026-09-25 23:11:23,Independence Blvd,35.1950,-80.7700,46,46,24,24,1,False,1.0,low
