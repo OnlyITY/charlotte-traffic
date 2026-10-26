@@ -1,8 +1,8 @@
 # Charlotte Traffic Congestion Prediction
 
 **Course:** DTSC 3601: Data Science Studio 3: Predictive Analysis & Their Impacts  
-**Group Name:** [Insert Group Name]  
-**Team Members:** Abhiram Parimi, [Insert Member 2], [Insert Member 3]
+**Group Name:** 2027  
+**Team Members:** Abhiram Parimi, [Omar Osman], [Justin Yip]
 
 A traffic prediction tool for Charlotte, NC that predicts whether traffic at a location will be low, medium, or high.
 
