@@ -2,7 +2,7 @@
 
 **Course:** DTSC 3601: Data Science Studio 3: Predictive Analysis & Their Impacts  
 **Group Name:** 2027  
-**Team Members:** Abhiram Parimi, [Omar Osman], [Justin Yip]
+**Team Members:** Abhiram Parimi, Omar Osman, Justin Yip
 
 A traffic prediction tool for Charlotte, NC that predicts whether traffic at a location will be low, medium, or high.
 
@@ -209,9 +209,9 @@ Preprocesses features, trains the classifier, and forecasts congestion probabili
 ## Contact
 
 Who to contact with questions:
-* **Abhiram Parimi** — [aparimi@charlotte.edu] ([GitHub](https://github.com/abhiramparimi05-bot))
-* **[Omar Osman]** — [oosman2@charlotte.edu]
-* **[Justin Yip]** — [iyip@charlotte.edu]
+* **Abhiram Parimi** — aparimi@charlotte.edu ([GitHub](https://github.com/abhiramparimi05-bot))
+* **Omar Osman** — oosman2@charlotte.edu
+* **Justin Yip** — iyip@charlotte.edu
 
 ---
 
